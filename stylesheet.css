@@ -47,7 +47,7 @@ h1{
     visibility: hidden;
     opacity: 0;
     font-size: 36px;
-    /* transition effect. not necessary */
+
     transition: opacity .2s, visibility .2s;
   }
 
@@ -103,6 +103,7 @@ h1{
 #internships{
   text-align: center;
   margin-top: 30px;
+  background-color: #fff;
 }
 
 .container{
@@ -116,4 +117,7 @@ h1{
   background-color: #DBD8F0;
   border-color: #DBD8F0;
 }
+
+
+
 
